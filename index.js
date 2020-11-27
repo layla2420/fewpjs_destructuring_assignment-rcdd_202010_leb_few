@@ -4,9 +4,15 @@ const[Bessie,,Dolly,Babe,Little]='cow horse sheep pig chicken'.split(' ')
 const[black_and_white,,black,pink,]='cow horse sheep pig chicken'.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+<<<<<<< HEAD
 const [red, orange, yellow, green, blue, indigo, violet]=colors
 const [r, o, y, g, b, , v]=colors
 const [, , , , , indg, ]=colors
+=======
+const  rainbow [red, orange, yellow, green, blue, indigo, violet]=colors
+const six rainbow color [r, o, y, g, b, , v]=colors
+const Indigo [, , , , , indg, ]=colors
+>>>>>>> df2de1158a74a579e0d2966603d7d71a71ce7fae
 
 const muppet = {
   name: 'Kermit',
@@ -15,7 +21,11 @@ const muppet = {
   job: 'Host of The Muppet Show',
   partner: 'Miss Piggy'
 };
+<<<<<<< HEAD
 const{name,color,song,job,partner}=muppet
+=======
+const{name,color,song,jobpartner}=muppet
+>>>>>>> df2de1158a74a579e0d2966603d7d71a71ce7fae
 
 const k_muppet = {
   k_name: 'Kermit',
@@ -31,10 +41,16 @@ const k_muppet = {
   k_job: 'Host of The Muppet Show',
   k_partner: 'Miss Piggy'
 };
+<<<<<<< HEAD
 const {song_2,song_4}= k_muppet.k_album.the_muppet_movie
 
 const {k_job}=k_muppet
 const {k_partner}=k_muppet
+=======
+const songs 2 and 4{song_2,song_4}= k_muppet.the_muppet_movie
+const kermit's job {k_job}=k_muppet.k_job
+const partnerr{k_partner}=k_muppet.k_partner
+>>>>>>> df2de1158a74a579e0d2966603d7d71a71ce7fae
 
 
 
